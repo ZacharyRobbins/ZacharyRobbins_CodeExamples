@@ -35,17 +35,17 @@ Given these conditions, researchers and managers need an ability to forecast and
 
 ### See how we parameterized the model
 
-[Understanding The Landscape](https://github.com/LANDIS-II-Foundation/Project-Southern-Appalachians-2018/tree/master/Parameterizing/FIA%20Analysis)
+[Understanding The Landscape](https://github.com/ZacharyRobbins/ZacharyRobbins_CodeExamples/tree/master/SouthernApps/Parameterizing/FIA%20Analysis)
 
-[Parameterizing Forest Cohorts](https://github.com/LANDIS-II-Foundation/Project-Southern-Appalachians-2018/tree/master/Parameterizing/Forests/InitialCommunities)
+[Parameterizing Forest Cohorts](https://github.com/ZacharyRobbins/ZacharyRobbins_CodeExamples/tree/master/SouthernApps/Parameterizing/Forests/InitialCommunities)
 
 [Soils Model](https://github.com/LANDIS-II-Foundation/Project-Southern-Appalachians-2018/tree/master/Parameterizing/Soils)
 
 [Historic and Future Climate](https://github.com/LANDIS-II-Foundation/Project-Southern-Appalachians-2018/tree/master/Parameterizing/Climate)
 
-[Species Validation](https://github.com/LANDIS-II-Foundation/Project-Southern-Appalachians-2018/tree/master/Parameterizing/Forests/SpeciesParameters)
+[Species Validation](https://github.com/ZacharyRobbins/ZacharyRobbins_CodeExamples/tree/master/SouthernApps/Parameterizing/Forests/SpeciesParameters)
 
-[Landscape Validation](https://github.com/LANDIS-II-Foundation/Project-Southern-Appalachians-2018/tree/master/Parameterizing/Forests)
+[Landscape Validation](https://github.com/ZacharyRobbins/ZacharyRobbins_CodeExamples/tree/master/SouthernApps/Parameterizing/Forests)
 
 #### Thanks to Our Funders:
 
