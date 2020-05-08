@@ -1,10 +1,3 @@
----
-title: "Climate Regions"
-output: 
-  html_document:
-    keep_md: true
-    
----
 
 
 ```r
